@@ -2,7 +2,7 @@
 <h3 align="center">Turning ideas into interactive web experiences – Passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fhrizwi&label=Profile%20views&color=brightgreen&style=flat" alt="fhrizwi" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=fhrizwi&label=Profile%500views&color=brightgreen&style=flat" alt="fhrizwi" height="30" />
 </p>
 
 <p align="center">
